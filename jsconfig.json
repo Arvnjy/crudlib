@@ -1,0 +1,6 @@
+{
+    "include": [
+        "crudlib/cypress",
+        "cypress/**/*.js"
+    ]
+}

@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "123",
-    "database": "crud_bk",
-    "host": "127.0.0.1",
+    "username": "swiperx_pt_user",
+    "password": "pr0cur3m3nt",
+    "database": "crud_lib",
+    "host": "35.187.224.15",
     "dialect": "mysql",
     "operatorsAliases": 0
   },

@@ -1,5 +1,7 @@
 const express = require('express')
 const app = express()
+const faker = require('./node_modules/faker')
+
 const db = require('./models')
 const PORT = process.env.PORT || 3000
 
